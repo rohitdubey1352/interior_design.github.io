@@ -1,0 +1,167 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;	
+}
+
+
+.main-header{
+	width: 70px;
+	height: 5px;
+	color: orange;
+	position: absolute;
+	padding-left: 20px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-size: 32px;
+	line-height: 28px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+
+
+.small-header{
+	position: relative;;
+	width: 80px;
+	height: 30px;
+	padding-left: 20px;
+	padding-top: 50px;
+	line-height: 16px;
+	color: #877E7E;
+}
+
+
+.img{
+	position: absolute;
+	width: 450px;
+	height: 663px;
+	left: 200px;
+	top: 0px;
+}
+
+.interior-title{
+	position: absolute;
+	width: 290px;
+	height: 10px;
+	padding-left: 940px;
+	top: 70px;
+	font-size: 20px;
+	line-height: 10px;
+	text-align: center;
+}
+
+hr.solid{
+	width: 143px;
+	height: 0px;
+	left: 101px;
+	top: 0px;
+	right: 250px;
+	border: 1px solid #000000;
+	transform: rotate(0.03deg);
+}
+
+
+.second-heading{
+	position: absolute;	
+	width: 250px;
+	height: 40px;
+	color: #4F4F4F;
+	padding-left: 800px;
+	font-size: 48px;
+	top: 150px;
+	line-height: 58px;
+	font-style: normal;
+	font-weight: bold;
+	font-family: 'Russo One', sans-serif;
+}
+
+
+p.detail{
+	position: absolute;
+	width: 400px;
+	height: 60px;
+	left: 830px;
+	top: 240px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 20px;
+	text-align: center;
+	color: #787878;
+}
+
+.products{
+	position: absolute;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
+.searchbar{
+	position: absolute;
+	width: 280px;
+	height: 42px;
+	left: 880px;
+	top: 338px;
+	padding-bottom: 10px;
+	background: #fff;
+	box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.25)
+}
+
+.serch-icon{
+	position: absolute;
+	width: auto;
+	padding-left: 870px;
+	padding-top: 128px;
+	border-radius: 4px;
+}
+
+.okbtn{
+	position: absolute;
+	width: 60px;
+	height: 42px;
+	left: 1100px;
+	top: 338px;
+	background: #FB9C0E;
+	box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.25);
+}
+
+h4{
+	color: #fff;
+	text-align: center;
+	padding-top: 6px;
+	padding-right: 2px;
+}
+
+.video{
+	position: absolute;
+	width: 270px;
+	height: 190px;
+	left: 740px;
+	top: 420px;
+	opacity: 50%;
+}
+
+.playbtn{
+	position: absolute;
+	width: 44px;
+	height: 42px;
+	left: 850px;
+	top: 497px;
+	align-items: center;
+	opacity: 70%;
+}
+
+p.intro{
+	position: absolute;
+	width: 300px;
+	height: 150px;
+	left: 1020px;
+	top: 425px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 30px;
+	color: #ffc61a;
+}
